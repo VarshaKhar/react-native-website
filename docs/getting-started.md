@@ -37,7 +37,7 @@ title: Getting Started
     .toggler li:first-child,
     .toggler li:last-child {
       display: block;
-      border-bottom-color: #05A5D1;
+      border-bottom-color: #05d197;
       border-radius: 3px;
       margin: 2px 0px 2px 0px;
     }
